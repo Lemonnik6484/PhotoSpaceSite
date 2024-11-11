@@ -19,7 +19,7 @@ function animateImage(img) {
         img.style.transform = `translate(${x}px, ${y}px)`;
     }
     moveImage();
-    setInterval(moveImage, 5000); // Перемещаем каждые 5 секунд
+    setInterval(moveImage, 5000);
 }
 
 loadPhotos();
