@@ -28,7 +28,7 @@ body, html {
         background-color: #333333;
     }
     50% {
-        background-color: #777777;
+        background-color: #999999;
     }
     100% {
         background-color: #333333;
@@ -42,7 +42,7 @@ body, html {
 }
 
 .border {
-    border: #2692eb1c solid 5px;
+    border: #26eb371c solid 5px;
     border-radius: 36% 64% 34% 66% / 56% 33% 67% 44%;
     animation-name: border-spin;
     animation-iteration-count: infinite;
@@ -53,8 +53,8 @@ body, html {
 }
 
 .group img {
-    width: 75px;
-    height: 75px;
+    width: 115px;
+    height: 115px;
     position: absolute;
     transition: transform 1s ease;
     border-radius: 50%;
